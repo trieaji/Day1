@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .btn-group1 .btn-sumbit{
+    height: 55px;
+    width: 100%;
+    max-width: 250px;
+    padding: 0 8px;
+    background: #db08a6;
+    border-radius: 10px;
+    border: 0;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    margin-top: 30px;
+    transition: all 0.4s linear;
+    cursor: pointer;
+  }
+
+  .btn-group1 .btn-submit:active {
+    background: #e922b7;
+  }
+
+  .btn-group2 .btn-sumbit{
+    height: 55px;
+    width: 100%;
+    max-width: 250px;
+    padding: 0;
+    background: #db08a6;
+    border-radius: 20px;
+    border: 0;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    margin-top: 30px;
+    transition: all 0.4s linear;
+    cursor: pointer;
+  }
+
+  .btn-group2 .btn-submit:active {
+    background: #e922b7;
+  }
+
+  h2{
+      padding: 8px;
+  }
